@@ -1,6 +1,5 @@
 # Portfólio
 
-```
 Olá, bem-vindo(a) ao meu projeto de portfólio.
 
 ## Ferramentas utilizadas:
@@ -14,4 +13,3 @@ Olá, bem-vindo(a) ao meu projeto de portfólio.
 ## Feito por:
 
 ### Stephanny Monteiro
-```
