@@ -13,3 +13,4 @@ Olá, bem-vindo(a) ao meu projeto de portfólio.
 ## Feito por:
 
 ### Stephanny Monteiro
+### Linkedin: https://www.linkedin.com/in/stephanny-monteiro/
